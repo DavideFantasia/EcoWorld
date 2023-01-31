@@ -1,0 +1,114 @@
+body{
+  background-color: white;
+}
+table{
+  margin-left: 18%;
+  margin-right: 25%;
+}
+input{
+  background-color: rgba(0,0,0,0);
+  text-align: center;
+  border-radius: 20px;
+  border: 1px solid black;
+  color: black;
+  width: auto;
+  height: 30px;
+  padding-left: 10px;
+}
+#movement_ToL
+{
+  padding-left: 20%;
+}
+#submitTable{
+  padding-left: 23%;
+}
+#submit-up {
+  background-image: url("img/up.png");
+  background-size: cover;
+  border: none;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  color: transparent;
+}
+#submit-tc {
+  background-image: url("img/turnClock.png");
+  background-size: cover;
+  border: none;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  color: transparent;
+}
+#submit-left {
+  background-image: url("img/left.png");
+  background-size: cover;
+  border: none;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  color: transparent;
+}
+#submit-right {
+  background-image: url("img/right.png");
+  background-size: cover;
+  border: none;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  color: transparent;
+}
+#submit-tAC {
+  background-image: url("img/turnAClock.png");
+  background-size: cover;
+  border: none;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  color: transparent;
+}
+#submit-down {
+  background-image: url("img/down.png");
+  background-size: cover;
+  border: none;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  color: transparent;
+}
+#submit-video {
+  background-image: url("img/streamOn.png");
+  background-size: cover;
+  border: none;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  color: transparent;
+}
+#submit-takeoff {
+  background-image: url("img/takeoff.png");
+  background-size: cover;
+  border: none;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  color: transparent;
+}
+#submit-land {
+  background-image: url("img/land.png");
+  background-size: cover;
+  border: none;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  color: transparent;
+}
+#submit-power {
+  background-image: url("img/power.png");
+  background-size: cover;
+  border: none;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  color: transparent;
+}
